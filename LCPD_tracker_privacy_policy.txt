@@ -1,0 +1,21 @@
+----- Privacy Policy -----
+
+LCPD Tracker is committed to providing quality services to you and this policy outlines our ongoing obligations to you in respect of how we manage Personal Information.
+
+----- 1.1 What is personal information?-----
+Personal Information is information or an opinion that identifies an individual, as defined by the Privacy Act 1988 (Cth). Examples of Personal Information include: names, addresses, email addresses, phone and facsimile numbers.
+
+
+----- 1.2 What information is used within LCPD Tracker? -----
+LCPD Tracker collects minimum amount of information. This information is required for the purposes of operating of the app and includes names of activities, dates and times of the said activities and what category of the CPD they relate to. 
+
+No Personal Information (such as information outlined in section 1.1) is collected. 
+
+The app does not require you to input any sensitive information either. Sensitive information is defined by the Privacy Act to include information or opinion about such things as racial or ethnic origin, political opinions, membership of a political association, religious or philosophical beliefs, membership of a trade union or other professional body, criminal record or health information. Your CPD activity, which you record in the tracker, is stored on your phone. The 
+
+LCPD Tracker development team does not have any access to or any visibility of any information that you record in the Tracker. The CPD activity that you record in the Tracker is stored in the iCloud for the purpose of synchronisation between your devices. LCPD Tracker development team does not have access to or visibility of this data.
+
+
+
+Best regards,
+LCPD Tracker development team.
