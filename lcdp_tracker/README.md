@@ -1,4 +1,4 @@
-# LCPD Tracker 2.0, developed by Alex Lyashenko. 
+# LCPD Tracker 2.3, developed by Alex Lyashenko. 
 
 ### 1.0 - Who is this app for?
 The app is for Australian lawyers and its sole purpose is to keep track of one's personal CPD progress throughout a year.
