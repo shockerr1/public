@@ -1,3 +1,4 @@
+![landing_page](https://user-images.githubusercontent.com/72585868/122660739-dc055980-d1c6-11eb-9e6a-d64ab0ce40a8.png)
 # LCPD Tracker 2.3, developed by Alex Lyashenko. 
 
 ### 1.0 - Who is this app for?
